@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**e-sakai/e-sakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**es0215/es0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
