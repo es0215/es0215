@@ -1,4 +1,4 @@
-### Hi there 👋
+### GitHub ⚡
 
 <!--
 **es0215/es0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es0215&show_icons=true&theme=radical" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=es0215&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=es0215)
+
+### My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/es0215/posts.svg)](http://qiita.com/es0215)
+### My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/es0215/contributions.svg)](http://qiita.com/es0215)
+### My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/es0215/followers.svg)](http://qiita.com/es0215)
