@@ -2,9 +2,19 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=es0215&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=es021&theme=default&utcOffset=9)
+<div style="display: flex;">
 
-![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=es0215&peng=false&color=white)
+  <!-- 1つ目の画像 -->
+  <div style="flex: 1;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=es021&theme=default&utcOffset=9" alt="Productive Time">
+  </div>
+
+  <!-- 2つ目の画像 -->
+  <div style="flex: 1;">
+    <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=es0215&peng=false&color=white" alt="GitHub Stats">
+  </div>
+
+</div>
 
 <!--
 **es0215/es0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
